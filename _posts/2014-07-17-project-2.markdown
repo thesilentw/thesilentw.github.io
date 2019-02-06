@@ -5,8 +5,10 @@ date: 2014-07-17
 img: cake.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: I wonder if this works without the client category, let's see.
 
+Maecenas sit amet egestas lorem. Maecenas sem mauris, accumsan sed fringilla quis, auctor sagittis purus. Suspendisse et tellus velit. Nulla facilisi. Aliquam sodales felis dolor. Ut id massa condimentum, aliquet ligula sed, hendrerit sem. Phasellus a tortor vitae mi varius imperdiet at ac erat. Pellentesque condimentum mauris nec enim vehicula tincidunt. Etiam eleifend ante eget aliquet cursus.
+
+Cras quis efficitur mauris. Donec mi orci, congue a nisl non, feugiat ultrices erat. Donec vel nulla feugiat, venenatis ligula vel, lacinia sapien. Duis augue arcu, cursus vel quam sed, pulvinar congue eros. Mauris egestas lacinia leo et aliquam. Etiam euismod augue mauris, at volutpat leo semper et. Vivamus justo metus, maximus quis lectus euismod, semper efficitur tortor. Etiam tristique venenatis orci, eu accumsan ligula congue sit amet. Maecenas bibendum maximus dolor, ac hendrerit leo interdum ac. Fusce consectetur at ipsum vel venenatis. Donec sit amet odio aliquam, euismod leo blandit, interdum odio. Donec pellentesque quis justo nec blandit. In eget urna faucibus, condimentum mauris in, tempus erat.
 ---

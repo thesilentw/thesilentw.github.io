@@ -7,6 +7,8 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: this is the first project, it's very cool.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur imperdiet quam in dui aliquam, sed aliquet ex tincidunt. Duis eu fermentum diam. Proin sed lectus est. Sed ut erat et urna condimentum placerat vel ac nulla. Phasellus sit amet feugiat metus, eget lobortis mauris. Donec vel felis sed ligula dignissim accumsan at a velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis volutpat tellus a consectetur interdum. Sed posuere ante erat, ac pretium nunc rhoncus in. Nam molestie tempor arcu sit amet volutpat. Duis aliquam leo nec ultrices varius. Donec eu libero at mi egestas hendrerit. Morbi pretium tellus et vestibulum rhoncus. Vivamus quis elit vitae sapien aliquam semper. Duis varius non orci nec dapibus. Nunc aliquet ornare diam, eleifend interdum nisl interdum sit amet.
 
 ---
