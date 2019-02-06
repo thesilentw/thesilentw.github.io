@@ -1,20 +1,38 @@
 ---
 layout: default
-title: welcome
+title: this is the page title
 ---
 
-THE SG@N HOME OF AWESOME 1337NESS
-=======
+# here is h1 text
+## this is h2
+### this is h3 text here
+#### h4 is smaller
+##### h5 smaller still
+###### h6 is REALLY small
 
-## About the home
-founded in 2018, the SG@N Home for Awesome 1337 h4x0rz (SG@NHFALH) is an equal-opportunity dwelling for those members of our society possessed of extremely 1337 skillz but lacking a permanent home.
+**At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, ** similique sunt in culpa qui officia deserunt *mollitia animi, id est laborum et dolorum fuga.*
 
-## Methodology
-We believe that all 1337 h4x0rzs deserve a chance to shine on their own and to escape the (often stifling) prison of thier parents' basement and unending disapproval.
-To this end, we provide a welcoming communal living space with few rules, a 'chill' atmosphere, and plenty of Bawls and Hot Pockets.
+## here's more h2 text
+***At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.*** Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil `impedit quo minus id quod maxime` placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+
+>using markdown
+>using
+>mfw
+>
+> :(
+>> blockquotes can be nested
 
 ---
-### Navigation
-* Testimonials
-* Current Residents
-* Contact
+a horizontal rule appears above here
+and another below
+***
+
+### this is h3 text
+* these are list items
+* item 2
+* item 3
+
+1. a thing
+2. another
+3. another again
+
