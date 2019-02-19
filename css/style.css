@@ -26,21 +26,37 @@ a {
 	padding: 0.5em 0em 0.5em 2em;
 }
 
+
 .navbar {
+	overflow: hidden;
 	background: FireBrick;
 	text-align: left;
-	padding: 1.5em 0em 1.5em 2.5em;
+	padding: 0em 0em 0em 2em;
 }
+
+.navbar a {
+	float: left;
+	display: block;
+	text-align: center;
+	padding: 1em 1em 1em 1em;
+	text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
 
 .leftcol {
 	float: left;
-	width: 55%;
+	width: 60%;
 	padding: 0em 0em 0em 2em; 
 }
 
 .rightcol {
 	float: left;
-	width: 35%;
+	width: 30%;
 	padding: 0em 0em 0em 1.5em; 
 }
 
