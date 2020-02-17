@@ -7,8 +7,6 @@
 #1d181f - glack
 */
 
-
-
 html {
 	font-family: "Helvetica", Trebuchet MS, sans-serif;
 	font-weight: bold;
@@ -18,7 +16,6 @@ html {
 }
 
 h1 {
-	line-height: 0.5em;
 	color: #B39C85;
 }
 
@@ -80,7 +77,7 @@ a {
 
 .leftcol {
 	float: left;
-	width: 60%;
+	width: 40%;
 	padding: 0em 0em 1em 2em; 
 }
 
@@ -112,7 +109,7 @@ div.imgdesc {
 
 .rightcol {
 	float: left;
-	width: 31%;
+	width: 30%;
 	padding: 0em 2em 1em 1.5em; 
 }
 
