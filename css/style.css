@@ -11,7 +11,7 @@ Former colors:
 */
 
 html {
-	font-family: "Helvetica", Trebuchet MS, sans-serif;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 1.1em;
 	color: tomato; /* this is so we can tell what I forgot to color! */
 	background: #1D181F;
@@ -47,6 +47,15 @@ p.l2 {
 a {
 	font-weight: bold;
 	color: #FF5335;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #cc422a;
 }
 
 .header {
@@ -66,12 +75,14 @@ a {
 	float: left;
 	width: 120px;
 	height: 225px;
-	padding: 0.25em 0.25em 0em 0.25em;
+	margin-bottom: 1em;
+	margin-left: 0.5em;
+	margin-right: 0.5em;
 }
 
-.galleryimg:hover {
-	background-color: #3b424D;
-	color: black;
+.galleryimg a {
+	font-weight: lighter;
+	color: #B9AC99;
 }
 
 .galleryimg img {
@@ -79,11 +90,6 @@ a {
 	height: 100px;
 	width: 100%;
 	height: auto;
-}
-
-.imgdesc {
-	color: #B9AC99;
-	padding: 0.1em 0.1em 0.1em 0.1em
 }
 
 .navbar {
@@ -100,7 +106,6 @@ a {
 	float: right;
 	display: block;
 	padding: .5em 1em .5em 1em;
-	text-decoration: none;
 }
 
 .navbar a:hover {
