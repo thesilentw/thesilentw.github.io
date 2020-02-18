@@ -1,10 +1,13 @@
 /* padding is top, right, bottom, left */
 /* Colors:
 #FF5335 - orangey
-#b39c85 - tanish
+#B9AC99 - New Tanish
 #306e73 - dark teal
 #3b424d - bley
 #1d181f - glack
+
+Former colors:
+#b39c85 - tanish
 */
 
 html {
@@ -16,17 +19,29 @@ html {
 
 h1 {
 	font-weight: bold;
-	color: #B39C85;
+	color: #B9AC99;
 	margin-bottom: -0.1em;
 	line-height: 0.9;
 }
 
 h2, h3, h4, h5, h6 {
-	color: #B39C85;
+	color: #B9AC99;
 }
 
 p {
-	color: #B39C85;
+	color: #B9AC99;
+}
+
+p.l1 {
+	color: #B9AC99;
+	text-indent: -1.25em;
+	margin-left: 1.35em;
+	margin-bottom: -0.5em;
+}
+
+p.l2 {
+	margin-left: 1.35em;
+	margin-bottom: 1.5em;
 }
 
 a {
@@ -45,6 +60,30 @@ a {
 
 .rightcol {
 	padding: .5em 1em .5em 1em;
+}
+
+.galleryimg {
+	float: left;
+	width: 120px;
+	height: 225px;
+	padding: 0.25em 0.25em 0em 0.25em;
+}
+
+.galleryimg:hover {
+	background-color: #3b424D;
+	color: black;
+}
+
+.galleryimg img {
+	width: 120px;
+	height: 100px;
+	width: 100%;
+	height: auto;
+}
+
+.imgdesc {
+	color: #B9AC99;
+	padding: 0.1em 0.1em 0.1em 0.1em
 }
 
 .navbar {
@@ -70,7 +109,7 @@ a {
 }
 
 .footer {
-	color: #B39C85;
+	color: #B9AC99;
 	background: #3b424D;
 	padding: .5em 1em .5em 1em;
 }
